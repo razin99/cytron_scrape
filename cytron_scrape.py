@@ -45,23 +45,16 @@ while True:
     for i in range(attempts):
         try:
             name_raw = browser.find_elements_by_class_name("name")
-            for n in name_raw:
-                name.append(n.text)
-            break
-        except StaleElementReferenceException as stale:
-            print(stale)
-
-    for i in range(attempts):
-        try:
             price_raw = browser.find_elements_by_class_name("price")
-            for n in name_raw:
-                price.append(n.text)
+            for i in range(0, len(name_raw)):
+                name.append(name_raw[i].text)
+                price.append(price_raw[i].text)
             break
         except StaleElementReferenceException as stale:
             print(stale)
 
+    assert(len(name_raw) == len(price_raw))
     print(f"================ Page {page_num} extracted =================")
-    print(f"---------- name: {len(name)} | {len(price)} :size ----------")
 
     try:
         next_present = EC.presence_of_element_located((By.LINK_TEXT, ">"))
