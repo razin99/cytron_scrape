@@ -20,6 +20,7 @@ name = []
 price = []
 page_num = 1
 attempts = 5
+name_price = {'Item':name, 'Price':price}
 data_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
 
 while True:
@@ -57,9 +58,9 @@ while True:
             print(stale)
 
     assert(len(name) == len(price))
-    name_price = {'Item':name, 'Price':price}
     temp_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
-    data_frame.append(temp_frame)
+    data_frame = data_frame.append(temp_frame, ignore_index = True)
+    print(data_frame)
     print(f"================ Page {page_num} extracted =================")
 
     try:
@@ -80,6 +81,6 @@ while True:
 
 browser.close()
 
-name_price = {'Item':name, 'Price':price}
-data_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
+# name_price = {'Item':name, 'Price':price}
+# data_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
 data_frame.to_csv('cytron_io.csv')
