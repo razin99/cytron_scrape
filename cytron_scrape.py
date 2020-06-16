@@ -81,6 +81,4 @@ while True:
 
 browser.close()
 
-# name_price = {'Item':name, 'Price':price}
-# data_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
 data_frame.to_csv('cytron_io.csv')
