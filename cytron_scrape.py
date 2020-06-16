@@ -20,6 +20,7 @@ name = []
 price = []
 page_num = 1
 attempts = 5
+data_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
 
 while True:
     timeout = 30
@@ -46,6 +47,8 @@ while True:
         try:
             name_raw = browser.find_elements_by_class_name("name")
             price_raw = browser.find_elements_by_class_name("price")
+            name.clear()
+            price.clear()
             for i in range(0, len(name_raw)):
                 name.append(name_raw[i].text)
                 price.append(price_raw[i].text)
@@ -53,7 +56,10 @@ while True:
         except StaleElementReferenceException as stale:
             print(stale)
 
-    assert(len(name_raw) == len(price_raw))
+    assert(len(name) == len(price))
+    name_price = {'Item':name, 'Price':price}
+    temp_frame = pd.DataFrame(name_price, columns=['Item', 'Price'])
+    data_frame.append(temp_frame)
     print(f"================ Page {page_num} extracted =================")
 
     try:
