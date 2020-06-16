@@ -2576,3 +2576,522 @@ JavaScript error: , line 0: NotAllowedError: User denied permission to use the P
 [Child 6288, MediaDecoderStateMachine #1] WARNING: 7f47b68e5230 OpenCubeb() failed to init cubeb: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/AudioStream.cpp, line 328
 [Child 6288, MediaDecoderStateMachine #1] WARNING: Decoder=7f47b8c66400 [OnMediaSinkAudioError]: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3764
 [Child 6288, MediaDecoderStateMachine #1] WARNING: Decoder=7f47b8c66400 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1592308560316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevQDo8J"
+*** You are running in headless mode.
+1592308563007	Marionette	INFO	Listening on port 41665
+1592308563048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: User denied permission to use the Push API.
+1592308570993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Child 6862, MediaDecoderStateMachine #1] WARNING: 7effb721e2c0 OpenCubeb() failed to init cubeb: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/AudioStream.cpp, line 328
+[Child 6862, MediaDecoderStateMachine #1] WARNING: Decoder=7effc03ecc00 [OnMediaSinkAudioError]: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3764
+[Child 6862, MediaDecoderStateMachine #1] WARNING: Decoder=7effc03ecc00 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-PX6VQo/firefox-77.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1592308575027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308578816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308582505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308586029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308589736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308593567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308599968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308604125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308625395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308628987	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308632596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308636028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308639450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308642999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308648882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308652383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308656184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308660131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308663868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308667773	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308671595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308675544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308679402	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308683385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308687224	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308691228	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308695325	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308699332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308703242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308707123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308710869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308714993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308719624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308723385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308727193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308732061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308735861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308739958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308744076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308747881	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308751993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308755917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308759837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308763743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308767532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308771456	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308775321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308779271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308783308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308787300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308791314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308796853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308800974	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308804918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308808884	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308812995	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308817006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308820990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308825093	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308829210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308833289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308837209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308841194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308845280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308849088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308853340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308857552	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308861720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308865948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308870128	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308874605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308878737	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308883015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308887313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308891829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308896043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308900248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308904516	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308908838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308913309	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308917826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308922282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308926746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308931186	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308936416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308940776	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308945239	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308949545	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308955019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308959883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308964312	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308968671	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308973221	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308978183	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308982540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308988600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308993286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592308997686	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592309002555	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592309007398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592309011996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592309044376	Marionette	INFO	Stopped listening on port 41665
